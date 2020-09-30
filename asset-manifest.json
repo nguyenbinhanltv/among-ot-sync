@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/among-ot-sync/static/css/main.f1ae203c.chunk.css",
-    "main.js": "/among-ot-sync/static/js/main.2d0a366f.chunk.js",
-    "main.js.map": "/among-ot-sync/static/js/main.2d0a366f.chunk.js.map",
+    "main.js": "/among-ot-sync/static/js/main.801c9410.chunk.js",
+    "main.js.map": "/among-ot-sync/static/js/main.801c9410.chunk.js.map",
     "runtime-main.js": "/among-ot-sync/static/js/runtime-main.993e83d5.js",
     "runtime-main.js.map": "/among-ot-sync/static/js/runtime-main.993e83d5.js.map",
     "static/js/2.06c7ba0e.chunk.js": "/among-ot-sync/static/js/2.06c7ba0e.chunk.js",
     "static/js/2.06c7ba0e.chunk.js.map": "/among-ot-sync/static/js/2.06c7ba0e.chunk.js.map",
     "index.html": "/among-ot-sync/index.html",
-    "precache-manifest.aced3932ba3c26ed5f9f110e45bd4cf6.js": "/among-ot-sync/precache-manifest.aced3932ba3c26ed5f9f110e45bd4cf6.js",
+    "precache-manifest.f7b09cc577c388a209167b3537239bbd.js": "/among-ot-sync/precache-manifest.f7b09cc577c388a209167b3537239bbd.js",
     "service-worker.js": "/among-ot-sync/service-worker.js",
     "static/css/main.f1ae203c.chunk.css.map": "/among-ot-sync/static/css/main.f1ae203c.chunk.css.map",
     "static/js/2.06c7ba0e.chunk.js.LICENSE.txt": "/among-ot-sync/static/js/2.06c7ba0e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.993e83d5.js",
     "static/js/2.06c7ba0e.chunk.js",
     "static/css/main.f1ae203c.chunk.css",
-    "static/js/main.2d0a366f.chunk.js"
+    "static/js/main.801c9410.chunk.js"
   ]
 }
