@@ -1,25 +1,7 @@
 {
   "name": "among-ot-sync",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "postbuild": "react-snap",
-    "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nguyenbinhanltv/among-ot-sync.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nguyenbinhanltv/among-ot-sync/issues"
-  },
-  "homepage": "https://github.com/nguyenbinhanltv/among-ot-sync#readme",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@sentry/react": "^5.24.2",
     "@sentry/tracing": "^5.24.2",
@@ -33,6 +15,13 @@
     "react-scripts": "3.4.3",
     "socket.io-client": "^2.3.0",
     "styled-components": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "postbuild": "react-snap",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
