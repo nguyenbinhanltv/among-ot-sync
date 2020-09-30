@@ -1,5 +1,5 @@
 {
     "syncIdLength": 6,
     "REACT_APP_SENTRY_DSN": "https://304681bb30914235aa0dd84c60be6763@o454842.ingest.sentry.io/5445530",
-    "REACT_APP_SYNC_SERVER_ADDRESS": "localhost:8080"
+    "REACT_APP_SYNC_SERVER_ADDRESS": "https://among-ot-discord-bot.herokuapp.com"
 }
