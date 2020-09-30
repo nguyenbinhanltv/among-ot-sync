@@ -31,7 +31,7 @@ export default function CodeInput({ syncId, setSyncId }) {
     <CodeInputWrapper
       key="codeinput"
       placeholder="ABC123"
-      value={syncId}
+      defaultValue={syncId}
       maxLength={syncIdLength}
       onInput={(e) => {
         if (e.target.value.length > syncIdLength)
