@@ -53,7 +53,7 @@ function App() {
 
   function connectToGame() {
     const newSocket = openSocket(
-      process.env.REACT_APP_SYNC_SERVER_ADDRESS || "localhost:8081"
+      process.env.REACT_APP_SYNC_SERVER_ADDRESS || "nguyenbinhanltv.github.io/among-ot-sync"
     );
 
     setLoading(true);
